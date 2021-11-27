@@ -1,16 +1,17 @@
 function isdriver(age){
     if (age>18) {
-        return true 
+        return  ("This is a Heavy Drivers  ")
+        // console.log("This is a Heavy Drivers  ")
             } else {
-                 return false
+                 return ('please Dont try Drive to Any Vehicles ')
         
-    }
+    } 
 }
-const drive = isdriver(12)
+const drive = isdriver(13)
 console.log(drive)
 if (drive) {
-    console.log("This is a Heavy Drivers  ")
+    // console.log("This is a Heavy Drivers  ")
     
-} else { console.log('please Dont try Drive Any Vehicles ')
+// } else { console.log('please Dont try Drive to Any Vehicles ')
     
 }
