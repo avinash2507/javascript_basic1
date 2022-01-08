@@ -7,7 +7,7 @@ function isdriver(age){
         
     } 
 }
-const drive = isdriver(13)
+const drive = isdriver(23)
 console.log(drive)
 if (drive) {
     // console.log("This is a Heavy Drivers  ")

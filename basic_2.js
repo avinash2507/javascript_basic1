@@ -10,8 +10,8 @@ console.log(arr[0,4])
 let marks = { 
     avi: '767',
     avin: "123",
-    neeraj:'878',
     om: '212',
+    neeraj:'878',
     prince: '121',
 }
 console.log('element',marks);
