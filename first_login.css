@@ -1,0 +1,26 @@
+*{
+    background-color: azure;
+    margin: 0px;
+    /* display: flex; */
+    padding: 0px;    
+    /* align-items: center; */
+}
+body{
+    image: url(./image/aji.jpg)
+    
+}
+.container{
+    border: 1px solid brown;
+    box-sizing: border-box
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 230px;
+    height: 450px;
+    background-color:lightcoral;
+}
+.container .DIV {
+    position: relative;
+    left: 50%;
+    top: 50%;
+}
